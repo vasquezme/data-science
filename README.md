@@ -6,3 +6,4 @@ Classification using Decision Tree
 Linear Regression
 
 Clustering
+k-centroids Cluster Analysis
